@@ -75,7 +75,7 @@ button {
   border: #858693 2px solid;
 }
 
-button .calc1 {
+button:nth-of-type(4) {
   background-color: #f5913e;
 }
 
