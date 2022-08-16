@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@500&display=swap');
+
+.paragraph {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-family: 'DynaPuff', cursive;
+    font-size: 24px;
+    gap: 30px;
+}

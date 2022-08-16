@@ -9,6 +9,9 @@ const Calculator = () => {
 
   return (
     <section className="container">
+      <p className="paragraph">
+        Time to hear out the cowculator!!
+      </p>
       <div className="coverBox">
         <div className="calcScreen">
           <span>{state.next || state.total || 0}</span>
