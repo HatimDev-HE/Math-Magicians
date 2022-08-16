@@ -1,15 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
 
 .quote-section {
-    margin-top: 10px;
-    margin-bottom: 40px;
-    font-family: 'Oswald', sans-serif;
-    font-size: 24px;
-    border: 2px grey solid;
-    width: 70%;
-    padding: 8px;
-    font-size: 50px;
-    margin-left: 180px;
-    margin-top: 170px;
-    line-height: 60px;
+  margin-bottom: 40px;
+  font-family: 'Oswald', sans-serif;
+  border: 2px grey solid;
+  width: 70%;
+  padding: 8px;
+  font-size: 50px;
+  margin-left: 180px;
+  margin-top: 170px;
+  line-height: 60px;
 }
