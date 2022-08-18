@@ -18,4 +18,22 @@ describe('Calculate test', () => {
 
     expect(result).toEqual(expected);
   });
+
+  test('Equal button', () => {
+    const obj = {
+      total: '3',
+      next: '2',
+      operation: '+',
+    };
+
+    const result = calculate(obj, '=');
+
+    const expected = {
+      total: '5',
+      next: null,
+      operation: null,
+    };
+
+    expect(result).toEqual(expected);
+  });
 });
