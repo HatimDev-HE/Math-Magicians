@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`claculating renders right 1`] = `
+<section
+  className="quote-section"
+  data-testid="quoteSection"
+>
+  <blockquote
+    cite="https://kidadl.com/quotes/top-most-inspirational-math-quotes-to-inspire-your-students-to-see-the-positives"
+  >
+    <p>
+      “There should be no such thing as boring mathematics.”
+    </p>
+    <figcaption>
+      — Edsger W. Dijkstra.
+    </figcaption>
+  </blockquote>
+</section>
+`;
