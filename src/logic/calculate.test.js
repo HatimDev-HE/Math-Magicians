@@ -1,13 +1,21 @@
 import calculate from './calculate';
 
-describe('test calculate', () => {
-  test('test AC', () => {
-    const object = {
-      total: 0,
+describe('Calculate test', () => {
+  test('AC button', () => {
+    const obj = {
+      total: null,
       next: null,
       operation: null,
     };
 
-    const outCome = calculate(object, 'AC');
+    const result = calculate(obj, 'AC');
+
+    const expected = {
+      total: null,
+      next: null,
+      operation: null,
+    };
+
+    expect(result).toEqual(expected);
   });
 });
