@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`calculating renders right 1`] = `
+<section
+  className="container"
+>
+  <p
+    className="paragraph"
+  >
+    Time to hear out the cowculator!!
+  </p>
+  <div
+    className="coverBox"
+  >
+    <div
+      className="calcScreen"
+    >
+      <span>
+        0
+      </span>
+    </div>
+    <form
+      className="button-container"
+    >
+      <button
+        className="calcBtn1 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        className="calcBtn2 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="calcBtn3 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="calcBtn4 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        className="calcBtn5 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="calcBtn6 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="calcBtn7 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="calcBtn8 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+      <button
+        className="calcBtn9 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="calcBtn10 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="calcBtn11 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="calcBtn12 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+      <button
+        className="calcBtn13 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="calcBtn15 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="calcBtn15 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="calcBtn16 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+      <button
+        className="calcBtn17 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="calcBtn18 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="calcBtn19 calc"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </form>
+  </div>
+</section>
+`;
